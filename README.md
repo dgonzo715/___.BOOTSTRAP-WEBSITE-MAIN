@@ -8,3 +8,7 @@ git push -u origin main,
 git status,
 git add . ,
 git commit -m "technical message"
+
+------------------------------------------------------------------------------------
+
+Using Bootstrap 5 and CSS media query
